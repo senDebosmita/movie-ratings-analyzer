@@ -27,3 +27,18 @@ A beginner-friendly Python data analytics project that analyzes movie ratings by
 1. Make sure you have Python and pandas installed
 2. Place the ratings.csv and movies.csv files in the same folder
 3. Run the script:
+4. python movie_analyzer.py
+5. ## 📊 Sample Output
+
+Top-rated movies with at least 3 ratings:
+Inception        4.67
+The Dark Knight  4.50
+The Matrix       4.33
+## ✨ Notes
+
+- You can replace the sample CSV files with real data from sources like MovieLens.
+- The project uses basic data cleaning and merging — good for beginners in data analytics.
+
+---
+
+Made by Debosmita Sen
